@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings
+target
+.odo/env
+.odo/odo-file-index.json
